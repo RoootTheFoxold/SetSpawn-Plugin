@@ -1,0 +1,17 @@
+name: SetSpawn
+description: Simple SetSpawn Plugin
+version: 1.0.0
+main: net.ddns.rootrobo.setspawn.Main
+commands:
+  align:
+    description: 'Align yourself'
+    usage: 'Usage: /align'
+  spawn:
+    description: 'Go to the server spawn'
+    usage: 'Usage: /spawn'
+  setspawn:
+    description: 'Set server spawn'
+    usage: 'Usage: /setspawn'
+  'setspawn reload':
+    description: 'Reload Config'
+    usage: '/setspawn reload'
